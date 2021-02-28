@@ -1,0 +1,98 @@
+.general{
+
+    background: white;
+    width: 60%;
+    position: relative;
+    left: 15%;
+    
+}
+.general a:link{
+    color: white;
+}
+.general a:visited{
+    color: white;
+}
+.items_contacts {
+    position: fixed;
+    background-color: white;
+    width: 70px;
+    top: 80px;
+}
+.items2{
+    background: url(../img/background2.jpg);
+}
+.txt_color1{
+    color: white;
+}
+
+p{
+
+    text-align: center;
+}
+.items_txt{
+    background: white;
+    width: 70%;
+    position: relative;
+    left: 15%;
+}
+
+.items4{
+    display: flex;
+    justify-content: space-around;
+    background: darkslategray;
+    height: 25%;
+}
+.items4_end{
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.logo{
+    position: relative;
+    top: 25%;
+    left: 3%;
+    
+}
+
+
+.items4_end p{
+    color: white;
+}
+
+.info{
+    position: fixed;
+    top: 25%;
+    right: 5%;
+
+    width: 15%;
+    background: white;
+}
+.common_hr{
+    margin-bottom: 5%;
+
+}
+.start_hr{
+margin-top: 0px;
+
+}
+.last_hr{
+    margin-bottom: 0px;
+}
+.info_div{
+    position: relative;
+    left: 5%;
+    height: 30px;
+}
+.chapter{
+    position: relative;
+    left: 15%;
+    height: 30px;
+}
+a:visited{
+    color: black;
+}
+a:link{
+    color: black;
+}
