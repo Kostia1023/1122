@@ -40,13 +40,29 @@ p{
     display: flex;
     justify-content: space-around;
     background: darkslategray;
-    height: 25%;
+    height: 45px;
 }
 .items4_end{
     width: 50%;
     display: flex;
-    justify-content: space-around;
+    justify-content: flex-end;
 
+}
+
+.items4_end p{
+    color: white;
+    margin: 5px;
+}
+
+.items4_end div{
+    border: 1px white;
+    border-style: solid;
+    background-color:darkslategray;
+    width: 100px;
+    
+}
+.items4_end div:hover{
+    background-color: rgb(31, 107, 107);
 }
 
 .logo{
@@ -57,9 +73,7 @@ p{
 }
 
 
-.items4_end p{
-    color: white;
-}
+
 
 .info{
     position: fixed;
